@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">E-Ticket Cinema</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repeatPassword">Repeat Password</string>
+    <string name="ButtonLogin">Login</string>
+    <string name="ButtonRegister">Register</string>
+    <string name="ButtonRegisterBack">Back</string>
+    <string name="ORSplitter">OR</string>
+    <string name="logo">Logo</string>
+    <string name="logo_splash">Logo</string>
+    <string name="fullname">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+
+    <string name="the_avengers">The Avengers</string>
+    <string name="cart">Cart</string>
+    <string name="buttonTicket">Buy Ticket</string>
+    <string name="deluxe">Deluxe</string>
+    <string name="regular">Regular</string>
+    <string name="sypnosis">Sypnosis</string>
+    <string-array name="menu_arrays">
+        <item>Captain America: First Avenger</item>
+        <item>Avengers</item>
+        <item>Captain America: Winter Soldier</item>
+        <item>Avengers: Age of Ultron</item>
+        <item>Captain America: Civil War</item>
+    </string-array>
+    <string-array name="content_arrays">
+        <item>It is 1942, America has entered World War II, and sickly but determined Steve Rogers is frustrated at being rejected yet again for military service. Everything changes when Dr. Erskine recruits him for the secret Project Rebirth. Proving his extraordinary courage, wits and conscience, Rogers undergoes the experiment and his weak body is suddenly enhanced into the maximum human potential. When Dr. Erskine is then immediately assassinated by an agent of Nazi Germany\'s secret HYDRA research department (headed by Johann Schmidt, a.k.a. the Red Skull), Rogers is left as a unique man who is initially misused as a propaganda mascot; however, when his comrades need him, Rogers goes on a successful adventure that truly makes him Captain America, and his war against Schmidt begins.</item>
+        <item>Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who\'s who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster.</item>
+        <item>For Steve Rogers, awakening after decades of suspended animation involves more than catching up on pop culture; it also means that this old school idealist must face a world of subtler threats and difficult moral complexities. That becomes clear when Director Nick Fury is killed by the mysterious assassin, the Winter Soldier, but not before warning Rogers that SHIELD has been subverted by its enemies. When Rogers acts on Fury\'s warning to trust no one there, he is branded as a traitor by the organization. Now a fugitive, Captain America must get to the bottom of this deadly mystery with the help of the Black Widow and his new friend, The Falcon. However, the battle will be costly for the Sentinel of Liberty, with Rogers finding enemies where he least expects them while learning that the Winter Soldier looks disturbingly familiar.</item>
+        <item>When Tony Stark (Robert Downey Jr.) jump-starts a dormant peacekeeping program, things go terribly awry, forcing him, Thor (Chris Hemsworth), the Incredible Hulk (Mark Ruffalo) and the rest of the Avengers to reassemble. As the fate of Earth hangs in the balance, the team is put to the ultimate test as they battle Ultron, a technological terror hell-bent on human extinction. Along the way, they encounter two mysterious and powerful newcomers, Pietro and Wanda Maximoff.</item>
+        <item>In 1991, Bucky Barnes (Sebastian Stan), brainwashed to be the Winter Soldier, causes a car to crash and recovers bags of a serum that turns people into super soldiers.After the Avengers defeated Ultron, Thor and Hulk are nowhere to be found. Hawkeye (Jeremy Renner) has gone home to spend time with his family. Even Iron Man (Robert Downey Jr.) has apparently disengaged. Captain America (Chris Evans) and Black Widow (Scarlett Johansson) are leading a new team of Avengers, consisting of Scarlet Witch (Elizabeth Olsen), Vision (Paul Bettany), War Machine (Don Cheadle) and Falcon (Anthony Mackie).</item>
+    </string-array>
+    <string-array name="time_arrays">
+        <item></item>
+    </string-array>
+</resources>
